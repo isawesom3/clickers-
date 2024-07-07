@@ -8,6 +8,7 @@ src="https://scratch.mit.edu/projects/1045350990/embed"
 
 
 
+![code overview](https://github.com/isawesom3/clicker-games/assets/173570795/9539b614-dfd8-4628-ad19-0108ff9b2c04)
 
 
 
