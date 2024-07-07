@@ -16,6 +16,8 @@ https://scratch.mit.edu/projects/1034132526
 https://scratch.mit.edu/projects/104535099
 "https://scratch.mit.edu/projects/1045350990/embed"
 
+![Screenshot 2024-07-07 2 42 57 PM](https://github.com/isawesom3/clicker-games/assets/173570795/d34dd738-d480-4f90-838d-fa79a04a1d4e)
+
 
 
 
