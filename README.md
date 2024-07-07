@@ -1,7 +1,7 @@
 ## clicker-games
 
 https://scratch.mit.edu/projects/1034132526
- src="https://scratch.mit.edu/projects/1034132526/embed"
+"https://scratch.mit.edu/projects/1034132526/embed"
 
  those links up there 🡑  are links to a clicker game that I made.
  if ya look down there, ↙ you can see that I made it in and from SCRATCH.
@@ -14,7 +14,7 @@ https://scratch.mit.edu/projects/1034132526
  ![code overview](https://github.com/isawesom3/clicker-games/assets/173570795/9539b614-dfd8-4628-ad19-0108ff9b2c04)
 
 https://scratch.mit.edu/projects/104535099
-src="https://scratch.mit.edu/projects/1045350990/embed"
+"https://scratch.mit.edu/projects/1045350990/embed"
 
 
 
