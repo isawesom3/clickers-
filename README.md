@@ -5,6 +5,7 @@ https://scratch.mit.edu/projects/1034132526
 
  those links up there 🡑  are links to a clicker game that I made.
  if ya look down there, ↙ you can see that I made it in and from SCRATCH.
+ 
  so blocks 1, java 0.
  the game is pretty simple.
  all you do is click the geometry dash ship (that looks bad) and you get points which are called:
