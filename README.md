@@ -1,6 +1,5 @@
 ## clicker-games
 
-https://scratch.mit.edu/projects/1034132526
 "https://scratch.mit.edu/projects/1034132526/embed"
 
  those links up there 🡑  are links to a clicker game that I made.
@@ -16,7 +15,6 @@ https://scratch.mit.edu/projects/1034132526
  -_______________________________________________________________________________________________________________________-
  -_______________________________________________________________________________________________________________________-
  
-https://scratch.mit.edu/projects/104535099
 "https://scratch.mit.edu/projects/1045350990/embed"
 
 this next project is another clicker featuring a 🐒BANANA🍌.
